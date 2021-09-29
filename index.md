@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/kuids/kuids.github.io/edit
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-**Go to KUIDS NewsLetter 10, 2021 section 1 -> [Click!] (https://kuids.github.io/datahub-newsletter-2021-10-#1)**
+**Go to KUIDS NewsLetter 10, 2021 section 1 -> [Click!] (https://kuids.github.io/datahub-newsletter-2021-10-1)**
 
 ### Markdown
 
