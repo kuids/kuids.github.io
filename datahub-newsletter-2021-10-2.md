@@ -1,37 +1,9 @@
 ## Welcome to KUIDS Pages
+## 학부 정규 교육 강좌
+### 멘토와 함께하는 데이터과학!
+2021학년도 1학기, 데이터과학원에서는 사회학과 신은경 교수님의 학부 핵심교양 교과목 “데이터과학과 인공지능” 강의를 지원하였습니다. 주로 전공불문 신입생을 대상으로 고학년의 데이터과학과 인공지능의 기초 교양을 터득하기를 바라는 학생들에게 도움됩니다. 600명의 수강생들에게 10여명으로 이루어진 학부생 전문 멘토들이 수업에 크게 기여하여 주었습니다. 2022학년도 1학기에도 신은경 교수님의 명품 강의를 기대합니다.
 
-2020년 3월 신설된 데이터과학원(KUIDS, 연구부총장 부속)에서는 줄곧 데이터과학과 인공지능 관련 교육과 연구 지원사업을 이어오고 있습니다. COVID19의 영향으로 위축된 대학교육과 연구에 Data Science 및 AI 관련 온라인 강의를 기획하고 융합연구 활성화를 기대하며 꾸준히 지원해오고 있습니다. 
-
-**Go to KUIDS NewsLetter 10, 2021 section 1 -> [Click!](https://kuids.github.io/datahub-newsletter-2021-10-1)**
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kuids/kuids.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![10월 석준희 교수님 강의 홍보 포스터](https://user-images.githubusercontent.com/91585914/135210407-bb2af718-c65d-4507-8921-f323992b2a6b.png)
 
 ### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+KUIDS 02-3290-4641, kuids@korea.ac.kr
