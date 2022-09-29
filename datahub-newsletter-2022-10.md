@@ -7,7 +7,7 @@
 
 ![데이터과학원온라인강의10월](https://user-images.githubusercontent.com/91585914/192975436-29edf3a7-a168-4581-8a90-2642f42afe3d.png)
 
-**데이터과학원온라인강의 (2022년 10월 편) 안내 바로가기 -> [![데이터과학원온라인강의](https://user-images.githubusercontent.com/91585914/192978608-7b5aa6c1-a1b4-4b42-a294-9cadcef1b014.png)](https://kuids.korea.ac.kr/kuids/notice.do?mode=view&articleNo=306257)**
+**데이터과학원 온라인강의 안내 바로가기 -> [![데이터과학원온라인강의](https://user-images.githubusercontent.com/91585914/192978608-7b5aa6c1-a1b4-4b42-a294-9cadcef1b014.png)](https://kuids.korea.ac.kr/kuids/notice.do?mode=view&articleNo=306257)**
 
 *******************************************************************************
 
