@@ -15,4 +15,4 @@
 
 ![연구교수](https://user-images.githubusercontent.com/91585914/192982243-91702427-6ed6-49c1-a8c9-91934c28dedc.png)
 
-**데이터과학원온라인강의 (2022년 10월 편) 안내 바로가기 -> [![연구교수공고](https://user-images.githubusercontent.com/91585914/192981927-b3c4242e-d3aa-49a7-a86e-bb87a3be9bf3.png)](https://kuids.korea.ac.kr/kuids/notice.do?mode=view&articleNo=306259)**
+**데이터과학원 연구교수 초빙 공고 바로가기 -> [![연구교수공고2](https://user-images.githubusercontent.com/91585914/192982653-13253078-87cd-423c-863d-9f6de16267ab.png)](https://kuids.korea.ac.kr/kuids/notice.do?mode=view&articleNo=306259)**
