@@ -9,6 +9,8 @@
 
 **데이터과학원온라인강의10월 안내 -> [바로가기](https://kuids.korea.ac.kr/kuids/notice.do?mode=view&articleNo=306257)**
 
+**데이터과학원온라인강의10월 안내 -> [![데이터과학원온라인강의](https://user-images.githubusercontent.com/91585914/192978608-7b5aa6c1-a1b4-4b42-a294-9cadcef1b014.png)](https://kuids.korea.ac.kr/kuids/notice.do?mode=view&articleNo=306257)**
+
 *******************************************************************************
 
 *******************************************************************************
