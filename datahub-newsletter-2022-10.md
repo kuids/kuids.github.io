@@ -13,6 +13,6 @@
 
 *******************************************************************************
 
-![연구교수](https://user-images.githubusercontent.com/91585914/192982243-91702427-6ed6-49c1-a8c9-91934c28dedc.png)
+![연구교수](https://user-images.githubusercontent.com/91585914/192983712-d38b29c7-6280-4aa8-8313-47747b74651d.png)
 
 **데이터과학원 연구교수 초빙 공고 바로가기 -> [![연구교수공고2](https://user-images.githubusercontent.com/91585914/192982991-92b60cbd-561c-4d3a-9810-c20123c9e497.png)](https://kuids.korea.ac.kr/kuids/notice.do?mode=view&articleNo=306259)**
