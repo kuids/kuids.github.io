@@ -7,7 +7,7 @@
 
 ![데이터과학원온라인강의10월](https://user-images.githubusercontent.com/91585914/192975436-29edf3a7-a168-4581-8a90-2642f42afe3d.png)
 
-**데이터과학원온라인강의10월 안내 -> [바로가기]([https://seojksc.github.io/profile](https://kuids.korea.ac.kr/kuids/notice.do?mode=view&articleNo=306257))**
+**데이터과학원온라인강의10월 안내 -> [바로가기]([https://kuids.korea.ac.kr/kuids/notice.do?mode=view&articleNo=306257])**
 
 *******************************************************************************
 
