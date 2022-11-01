@@ -5,7 +5,7 @@
 
 *******************************************************************************
 
-![11월강의](https://user-images.githubusercontent.com/91585914/199179033-b9e030fb-6507-45c6-91d6-80faf36f81a7.png)
+![11월강의](https://user-images.githubusercontent.com/91585914/199182626-2ba4131c-d81f-4d83-97ef-a4800d91ac17.png)
 
 **데이터과학원 온라인강의 안내 바로가기 -> [![데이터과학원온라인강의](https://user-images.githubusercontent.com/91585914/192978608-7b5aa6c1-a1b4-4b42-a294-9cadcef1b014.png)](https://kuids.korea.ac.kr/kuids/notice.do?mode=view&articleNo=309336)**
 
@@ -13,6 +13,6 @@
 
 *******************************************************************************
 
-![임용](https://user-images.githubusercontent.com/91585914/199179388-776faddd-2ade-48fc-8623-d1f7c1be3322.png)
+![임용](https://user-images.githubusercontent.com/91585914/199182829-471be491-5336-4108-b465-3148e2de37eb.png)
 
 
