@@ -1,5 +1,5 @@
 
-![그림1](https://user-images.githubusercontent.com/91585914/215805658-ab2d9955-7e55-457a-b35a-a1a088f8bbf0.png)
+![썸네일](https://user-images.githubusercontent.com/91585914/215808132-d290626f-4829-4efc-be93-92bacc354e28.png)
 
 *******************************************************************************
 
