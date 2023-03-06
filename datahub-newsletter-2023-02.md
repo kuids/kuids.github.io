@@ -17,6 +17,6 @@
 
 데이터과학원에서는 "데이터과학원 온라인 강의"의 강의들을 업데이트하고 있습니다. 지금 클릭하시면 최근 업로드한 강의들을 보실 수 있습니다.
 
-**데이터과학원 온라인 강의 바로가기 -> [![데이터과학원온라인강의](https://user-images.githubusercontent.com/91585914/192978608-7b5aa6c1-a1b4-4b42-a294-9cadcef1b014.png)]([https://kuids.korea.ac.kr/kuids/notice.do?mode=view&articleNo=312294](https://kuids.korea.ac.kr/kuids/notice.do;jsessionid=w23RkFPQxMcDYCdb2NLz7LhHLRvLwDzTQdM7vMq2RddQhNqbwwXh!1477825468?mode=view&articleNo=317643&article.offset=0&articleLimit=10&totalNoticeYn=N&totalBoardNo=))**
+**데이터과학원 온라인 강의 바로가기 -> [![데이터과학원온라인강의](https://user-images.githubusercontent.com/91585914/192978608-7b5aa6c1-a1b4-4b42-a294-9cadcef1b014.png)](https://kuids.korea.ac.kr/kuids/notice.do;jsessionid=w23RkFPQxMcDYCdb2NLz7LhHLRvLwDzTQdM7vMq2RddQhNqbwwXh!1477825468?mode=view&articleNo=317643&article.offset=0&articleLimit=10&totalNoticeYn=N&totalBoardNo=)**
 
 
