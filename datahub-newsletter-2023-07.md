@@ -20,7 +20,7 @@
 ### 감사합니다. 
 
 
-![코딩스쿨 포스터 수정](https://github.com/kuids/kuids.github.io/assets/91585914/b6406f87-8149-421f-b08b-15a622525c75)
+![포스터 수정](https://github.com/kuids/kuids.github.io/assets/91585914/56014192-3775-4f0e-acd1-2bf16bf8bb0f)
 
 *******************************************************************************
 
