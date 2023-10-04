@@ -9,6 +9,7 @@
 ## 세미나에 관심있는 분들의 적극적인 참여 부탁드립니다.
 
 ## <span style="color:black">Red Text</span>
+## <span style="color:black">Red Text</span>
 
 ## □ 주제: 도구로 강화된 대형 언어 모델과 활용
 
