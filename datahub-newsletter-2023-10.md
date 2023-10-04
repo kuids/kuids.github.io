@@ -18,7 +18,7 @@
 
 ## <span style="color:black">□ 대상: 고려대학교 대학원생, 학부생, 교원</span>
 
-## <span style="color:black">□ 신청링크: https://url.kr/62s7k3</span>
+## <span style="color:black">□ 신청링크: https://url.kr/62s7k3</span> 
 
 ## <span style="color:black">□ 문의: 데이터과학원 kuids@korea.ac.kr / 02)3290-4641</span>
 
