@@ -8,7 +8,7 @@
 ## 세미나 연사로 전희원, 네이버 클라우드 Hyperscale AI 리더님을 모셨습니다. 
 ## 세미나에 관심있는 분들의 적극적인 참여 부탁드립니다.
 
-## <span style="color:red">Red Text</span> 
+## <span style="color:red">Red Text</span>  
 
 ## □ 주제: 도구로 강화된 대형 언어 모델과 활용
 
