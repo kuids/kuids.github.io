@@ -10,7 +10,7 @@
 
 ## <span style="color:black">□ 주제: 도구로 강화된 대형 언어 모델과 활용</span>
 
-## <span style="color:black">□ 연사: 전희원, 네이버 클라우드 Hyperscale AI 리더</span> 
+## <span style="color:black">□ 연사: 전희원, 네이버 클라우드 Hyperscale AI 리더</span>  
 
 ## <span style="color:black">□ 일시: 2023. 10. 13(금) 오후 4:30 ~ 5:45</span>
 
